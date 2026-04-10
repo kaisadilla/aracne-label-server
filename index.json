@@ -19,5 +19,16 @@
         "picture": "ep1/11-happyhappyhappy.jpg"
       }
     ]
+  },
+  {
+    "album": "Alignment: chaotic-dysfunctional",
+    "songs": [
+      {
+        "name": "Grey Eyes",
+        "song": "chaotic-dysfunctional/grey-eyes.mp3",
+        "lyrics": "chaotic-dysfunctional/grey-eyes.lrc",
+        "picture": "chaotic-dysfunctional/grey-eyes.jpg"
+      }
+    ]
   }
 ]
