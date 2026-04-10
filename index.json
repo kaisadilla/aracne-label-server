@@ -1,16 +1,21 @@
 [
   {
-    "album": "EP1",
+    "album": "EP 1 - The Doll's Vault",
     "songs": [
       {
-        "name": "Built to shine",
+        "name": "Built to Shine",
         "song": "ep1/05-built-to-shine.mp3",
         "lyrics": "ep1/05-built-to-shine.lrc"
       },
       {
-        "name": "Tiny soldier",
+        "name": "Tiny Soldier",
         "song": "ep1/09-tiny-soldier.mp3",
         "lyrics": "ep1/09-tiny-soldier.lrc"
+      },
+      {
+        "name": "HAPPYHAPPHAPPY",
+        "song": "ep1/11-happyhappyhappy.mp3",
+        "lyrics": "ep1/11-happyhappyhappy.lrc"
       }
     ]
   }
