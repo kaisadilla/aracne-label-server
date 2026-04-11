@@ -38,7 +38,7 @@
         "lyrics": "ep1/07-fire.lrc"
       },
       {
-        "name": "Fire",
+        "name": "Tykev",
         "song": "ep1/08-tykev.mp3",
         "lyrics": "ep1/08-tykev.lrc"
       },
@@ -46,6 +46,11 @@
         "name": "Tiny Soldier",
         "song": "ep1/09-tiny-soldier.mp3",
         "lyrics": "ep1/09-tiny-soldier.lrc"
+      },
+      {
+        "name": "Don't Blink",
+        "song": "ep1/10-dont-blink.mp3",
+        "lyrics": "ep1/10-dont-blink.lrc"
       },
       {
         "name": "HAPPYHAPPHAPPY",
