@@ -86,6 +86,12 @@
         "song": "chaotic-dysfunctional/04-spray-paint-ghost.mp3",
         "lyrics": "chaotic-dysfunctional/04-spray-paint-ghost.lrc",
         "picture": "chaotic-dysfunctional/04-spray-paint-ghost.png"
+      },     
+      {
+        "name": "Patterns.Break()",
+        "song": "chaotic-dysfunctional/patternsbreak.mp3",
+        "lyrics": "chaotic-dysfunctional/patternsbreak.lrc",
+        "picture": "chaotic-dysfunctional/patternsbreak.png"
       }
     ]
   }
