@@ -80,6 +80,12 @@
         "song": "chaotic-dysfunctional/03-tomorrow.mp3",
         "lyrics": "chaotic-dysfunctional/03-tomorrow.lrc",
         "picture": "chaotic-dysfunctional/03-tomorrow.png"
+      },      
+      {
+        "name": "Spray Paint Ghost",
+        "song": "chaotic-dysfunctional/04-spray-paint-ghost.mp3",
+        "lyrics": "chaotic-dysfunctional/04-spray-paint-ghost.lrc",
+        "picture": "chaotic-dysfunctional/04-spray-paint-ghost.png"
       }
     ]
   }
