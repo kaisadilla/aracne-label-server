@@ -68,6 +68,12 @@
         "song": "chaotic-dysfunctional/01-happyhappyhappy.mp3",
         "lyrics": "chaotic-dysfunctional/01-happyhappyhappy.lrc",
         "picture": "chaotic-dysfunctional/01-happyhappyhappy.png"
+      },
+      {
+        "name": "Too Many Days Without a Murder",
+        "song": "chaotic-dysfunctional/02-too-many-years-without-a-murder.mp3",
+        "lyrics": "chaotic-dysfunctional/02-too-many-years-without-a-murder.lrc",
+        "picture": "chaotic-dysfunctional/02-too-many-years-without-a-murder.png"
       }
     ]
   }
