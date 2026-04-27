@@ -92,6 +92,12 @@
         "song": "chaotic-dysfunctional/patternsbreak.mp3",
         "lyrics": "chaotic-dysfunctional/patternsbreak.lrc",
         "picture": "chaotic-dysfunctional/patternsbreak.png"
+      },
+      {
+        "name": "Shhh...",
+        "song": "chaotic-dysfunctional/SHHH.mp3",
+        "lyrics": "chaotic-dysfunctional/SHHH.lrc",
+        "picture": "chaotic-dysfunctional/SHHH.png"
       }
     ]
   }
