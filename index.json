@@ -104,6 +104,12 @@
         "song": "chaotic-dysfunctional/thecage.mp3",
         "lyrics": "chaotic-dysfunctional/thecage.lrc",
         "picture": "chaotic-dysfunctional/thecage.png"
+      },
+            {
+        "name": "Emerald Girl",
+        "song": "chaotic-dysfunctional/emmerald.mp3",
+        "lyrics": "chaotic-dysfunctional/emmerald.lrc",
+        "picture": "chaotic-dysfunctional/emmerald.png"
       }
     ]
   }
