@@ -134,6 +134,12 @@
         "song": "chaotic-dysfunctional/ILLNESS.mp3",
         "lyrics": "chaotic-dysfunctional/ILLNESS.lrc",
         "picture": "chaotic-dysfunctional/ILLNESS.png"
+      },
+      {
+        "name": "BRIGHTER (Hazbin Hotel cover)",
+        "song": "chaotic-dysfunctional/BRIGHTER.mp3",
+        "lyrics": "chaotic-dysfunctional/BRIGHTER.lrc",
+        "picture": "chaotic-dysfunctional/BRIGHTER.png"
       }
     ]
   }
