@@ -129,7 +129,7 @@
         "lyrics": "chaotic-dysfunctional/NOTHING.lrc",
         "picture": "chaotic-dysfunctional/NOTHING.jpg"
       },
-            {
+      {
         "name": "Illness Illusion (Gackt cover)",
         "song": "chaotic-dysfunctional/ILLNESS.mp3",
         "lyrics": "chaotic-dysfunctional/ILLNESS.lrc",
@@ -140,6 +140,12 @@
         "song": "chaotic-dysfunctional/BRIGHTER.mp3",
         "lyrics": "chaotic-dysfunctional/BRIGHTER.lrc",
         "picture": "chaotic-dysfunctional/BRIGHTER.png"
+      },
+      {
+        "name": "I Don't feel anything",
+        "song": "chaotic-dysfunctional/ANYTHING00.mp3",
+        "lyrics": "chaotic-dysfunctional/ANYTHING00.lrc",
+        "picture": "chaotic-dysfunctional/ANYTHING00.png"
       }
     ]
   }
