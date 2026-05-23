@@ -158,6 +158,12 @@
         "song": "chaotic-dysfunctional/MINUTES.mp3",
         "lyrics": "chaotic-dysfunctional/MINUTES.lrc",
         "picture": "chaotic-dysfunctional/MINUTES.png"
+      },
+      {
+        "name": "I SURVIVED WRONG",
+        "song": "chaotic-dysfunctional/WRONG.mp3",
+        "lyrics": "chaotic-dysfunctional/WRONG.lrc",
+        "picture": "chaotic-dysfunctional/WRONG.jpg"
       }
     ]
   }
