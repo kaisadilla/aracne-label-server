@@ -164,6 +164,12 @@
         "song": "chaotic-dysfunctional/WRONG.mp3",
         "lyrics": "chaotic-dysfunctional/WRONG.lrc",
         "picture": "chaotic-dysfunctional/WRONG.jpg"
+      },
+      {
+        "name": "Only One Thing Right",
+        "song": "chaotic-dysfunctional/THING.mp3",
+        "lyrics": "chaotic-dysfunctional/THING.lrc",
+        "picture": "chaotic-dysfunctional/THING.png"
       }
     ]
   }
