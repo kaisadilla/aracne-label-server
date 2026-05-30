@@ -172,5 +172,16 @@
         "picture": "chaotic-dysfunctional/THING.png"
       }
     ]
+  },
+  {
+    "album": "Star Dome (Ep.III)",
+    "songs": [
+      {
+        "name": "Zero Gravity",
+        "song": "Zero/ZERO.wav",
+        "lyrics": "Zero/ZERO.lrc",
+        "picture": "Zero/ZERO.png"
+      }
+    ]
   }
 ]
