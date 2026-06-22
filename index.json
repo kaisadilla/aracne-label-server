@@ -170,6 +170,12 @@
         "song": "chaotic-dysfunctional/THING.mp3",
         "lyrics": "chaotic-dysfunctional/THING.lrc",
         "picture": "chaotic-dysfunctional/THING.png"
+      },
+      {
+        "name": "Purple Rabbit (extended version)",
+        "song": "chaotic-dysfunctional/PURPLEEXTENDED.wav",
+        "lyrics": "chaotic-dysfunctional/PURPLEEXTENDED.lrc",
+        "picture": "chaotic-dysfunctional/PURPLEEXTENDED.png"
       }
     ]
   },
