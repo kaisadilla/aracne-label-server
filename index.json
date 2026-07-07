@@ -189,5 +189,23 @@
         "picture": "Zero/ZERO.png"
       }
     ]
+  },
+  {
+    "album": "Otras",
+    "songs": [
+      {
+        "name": "Tank in cloths",
+        "song": "Otras/TANKINCLOTHSENG.mp3",
+        "lyrics": "Otras/TANKINCLOTHSENG.lrc",
+        "picture": "Otras/TANKINCLOTHSENG.png"
+      },
+      {
+        "name": "Tanque de telas",
+        "song": "Otras/TANKINCLOTHSEESP.mp3",
+        "lyrics": "Otras/TANKINCLOTHSESP.lrc",
+        "picture": "Otras/TANKINCLOTHSESP.png"
+      }
+      
+    ]
   }
 ]
