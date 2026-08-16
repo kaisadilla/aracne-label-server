@@ -74,19 +74,19 @@
         "song": "chaotic-dysfunctional/02-too-many-years-without-a-murder.mp3",
         "lyrics": "chaotic-dysfunctional/02-too-many-years-without-a-murder.lrc",
         "picture": "chaotic-dysfunctional/02-too-many-years-without-a-murder.png"
-      },      
+      },
       {
         "name": "Tomorrow (All Day Hobby Discovering)",
         "song": "chaotic-dysfunctional/03-tomorrow.mp3",
         "lyrics": "chaotic-dysfunctional/03-tomorrow.lrc",
         "picture": "chaotic-dysfunctional/03-tomorrow.png"
-      },      
+      },
       {
         "name": "Spray Paint Ghost",
         "song": "chaotic-dysfunctional/04-spray-paint-ghost.mp3",
         "lyrics": "chaotic-dysfunctional/04-spray-paint-ghost.lrc",
         "picture": "chaotic-dysfunctional/04-spray-paint-ghost.png"
-      },     
+      },
       {
         "name": "Patterns.Break()",
         "song": "chaotic-dysfunctional/patternsbreak.mp3",
@@ -205,7 +205,142 @@
         "lyrics": "Otras/TANKINCLOTHSESP.lrc",
         "picture": "Otras/TANKINCLOTHSESP.png"
       }
-      
+    ]
+  },
+  {
+    "album": "ACTO 0: The Leak",
+    "songs": [
+      {
+        "name": "Restless",
+        "song": "Chaotic-Dysfunctional Master/theleak/RESTLESS.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/Themask/RESTLESS.lrc",
+        "picture": "Chaotic-Dysfunctional Master/Themask/RESTLESS.PNG"
+      },
+      {
+        "name": "Purple Rabbit",
+        "song": "Chaotic-Dysfunctional Master/theleak/PURPLEEXT.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/theleak/PURPLEEXT.lrc",
+        "picture": "Chaotic-Dysfunctional Master/theleak/PURPLEEXT.PNG"
+      },
+      {
+        "name": "She's Lovely",
+        "song": "Chaotic-Dysfunctional Master/theleak/LOVELY.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/theleak/LOVELY.lrc",
+        "picture": "Chaotic-Dysfunctional Master/theleak/LOVELY.gif"
+      },
+      {
+        "name": "I survived Wrong",
+        "song": "Chaotic-Dysfunctional Master/theleak/SURVIVEDEXT.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/theleak/SURVIVEDEXT.lrc",
+        "picture": "Chaotic-Dysfunctional Master/theleak/SURVIVEDEXT.PNG"
+      }
+    ]
+  },
+  {
+    "album": "ACTO 1: The Mask",
+    "songs": [
+      {
+        "name": "HAPY HAPPY HAPPY",
+        "song": "Chaotic-Dysfunctional Master/Themask/HAPPY.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/Themask/HAPPY.lrc",
+        "picture": "Chaotic-Dysfunctional Master/Themask/HAPPY.PNG"
+      },
+      {
+        "name": "Too Many Days",
+        "song": "Chaotic-Dysfunctional Master/Themask/TOOMANY.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/Themask/TOOMANY.lrc",
+        "picture": "Chaotic-Dysfunctional Master/Themask/TOOMANY.PNG"
+      },
+      {
+        "name": "Tomorrrow",
+        "song": "Chaotic-Dysfunctional Master/Themask/TOMORROW.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/Themask/TOMORROW.lrc",
+        "picture": "Chaotic-Dysfunctional Master/Themask/TOMORROW.PNG"
+      },
+      {
+        "name": "CLEAN CLEAN CLEAN",
+        "song": "Chaotic-Dysfunctional Master/Themask/CLEAN.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/Themask/CLEAN.lrc",
+        "picture": "Chaotic-Dysfunctional Master/Themask/CLEAN.PNG"
+      }
+    ]
+  },
+  {
+    "album": "ACTO 2: The Rage",
+    "songs": [
+      {
+        "name": "Spray Paint Ghost",
+        "song": "Chaotic-Dysfunctional Master/Therage/GHOST.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/Therage/GHOST.lrc",
+        "picture": "Chaotic-Dysfunctional Master/Therage/GHOST.PNG"
+      }
+    ]
+  },
+  {
+    "album": "ACTO 3: The Heart",
+    "songs": [
+      {
+        "name": "I don't want to be saved",
+        "song": "Chaotic-Dysfunctional Master/Theheart/SAVED.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/Theheart/SAVED.lrc",
+        "picture": "Chaotic-Dysfunctional Master/Theheart/SAVED.PNG"
+      }
+    ]
+  },
+  {
+    "album": "ACTO 4: The Rope",
+    "songs": [
+      {
+        "name": "The Cage",
+        "song": "Chaotic-Dysfunctional Master/Therope/CAGE.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/Therope/CAGE.lrc",
+        "picture": "Chaotic-Dysfunctional Master/Therope/CAGE.PNG"
+      },
+      {
+        "name": "I know the fire",
+        "song": "Chaotic-Dysfunctional Master/Therope/FIRE.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/Therope/FIRE.lrc",
+        "picture": "Chaotic-Dysfunctional Master/Therope/FIRE.PNG"
+      }
+    ]
+  },
+  {
+    "album": "ACTO 5: The Eyes",
+    "songs": [
+      {
+        "name": "Crooked Girl",
+        "song": "Chaotic-Dysfunctional Master/Theeyes/CROOKED.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/Theeyes/CROOKED.lrc",
+        "picture": "Chaotic-Dysfunctional Master/Theeyes/CROOKED.PNG"
+      }
+    ]
+  },
+  {
+    "album": "ACTO 6: The Broken",
+    "songs": [
+      {
+        "name": "I Survived Wrong",
+        "song": "Chaotic-Dysfunctional Master/Thebroken/SURVIVED.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/Thebroken/SURVIVED.lrc",
+        "picture": "Chaotic-Dysfunctional Master/Thebroken/SURVIVED.PNG"
+      },
+      {
+        "name": "One Thing Right",
+        "song": "Chaotic-Dysfunctional Master/Thebroken/RIGHT.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/Thebroken/RIGHT.lrc",
+        "picture": "Chaotic-Dysfunctional Master/Thebroken/RIGHT.PNG"
+      }
+    ]
+  },
+  {
+    "album": "ACTO 7: The Salvation",
+    "songs": [
+      {
+        "name": "A Flame in the guts",
+        "song": "Chaotic-Dysfunctional Master/Thebroken/GUTS.mp3",
+        "lyrics": "Chaotic-Dysfunctional Master/Thebroken/GUTS.lrc",
+        "picture": "Chaotic-Dysfunctional Master/Thebroken/GUTS.PNG"
+      }
     ]
   }
 ]
